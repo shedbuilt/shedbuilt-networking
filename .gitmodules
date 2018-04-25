@@ -1,0 +1,24 @@
+[submodule "network-manager"]
+	path = network-manager
+	url = https://github.com/shedbuilt/network-manager.git
+	branch = .
+[submodule "libndp"]
+	path = libndp
+	url = https://github.com/shedbuilt/libndp.git
+	branch = .
+[submodule "libnl"]
+	path = libnl
+	url = https://github.com/shedbuilt/libnl.git
+	branch = .
+[submodule "libnss"]
+	path = libnss
+	url = https://github.com/shedbuilt/libnss.git
+	branch = .
+[submodule "libnspr"]
+	path = libnspr
+	url = https://github.com/shedbuilt/libnspr.git
+	branch = .
+[submodule "wpa-supplicant"]
+	path = wpa-supplicant
+	url = https://github.com/shedbuilt/wpa-supplicant.git
+	branch = .
