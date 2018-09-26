@@ -22,3 +22,23 @@
 	path = wpa-supplicant
 	url = https://github.com/shedbuilt/wpa-supplicant.git
 	branch = .
+[submodule "ca-certs"]
+	path = ca-certs
+	url = https://github.com/shedbuilt/ca-certs.git
+	branch = .
+[submodule "iana-etc"]
+	path = iana-etc
+	url = https://github.com/shedbuilt/iana-etc.git
+	branch = .
+[submodule "inetutils"]
+	path = inetutils
+	url = https://github.com/shedbuilt/inetutils.git
+	branch = .
+[submodule "iproute2"]
+	path = iproute2
+	url = https://github.com/shedbuilt/iproute2.git
+	branch = .
+[submodule "openssl"]
+	path = openssl
+	url = https://github.com/shedbuilt/openssl.git
+	branch = .
